@@ -1,4 +1,4 @@
-# Elevste-Internship-Task-1
+# Elevate-Internship-Task-1
 This is the solution of the Task 1 for my internship
 I have Scanned my ip address for the Open ports and analyzed the results.
 
